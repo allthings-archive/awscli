@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-docker run --rm -it qipp/awscli help
+docker run --rm -it allthings/awscli help
 ```
 
 ## License
