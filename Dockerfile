@@ -1,6 +1,6 @@
 # AWS Command Line Interface Dockerfile
 
-FROM alpine:3.4
+FROM alpine:3.5
 
 RUN apk --no-cache add \
     # Install awscli dependencies:
