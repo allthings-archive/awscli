@@ -7,4 +7,4 @@ docker run --rm -it allthings/awscli help
 ```
 
 ## License
-Released under the [MIT license](http://www.opensource.org/licenses/MIT).
+Released under the [MIT license](https://opensource.org/licenses/MIT).
